@@ -1,0 +1,26 @@
+This is the Test for Chan's Algorithm 
+
+4M	5  Min
+6M	8  Min
+8M	16 Min
+10M	Stop Java Heap Space
+
+I used 8 main groups as a setting for the program. No. jobs =5 at each test.
+
+
+This is the test for the MR Quickhull
+
+
+100	17 Min	faces=52	It=30	
+200	29 Min	faces=94	It=54
+300	29 Min	faces=89	It=51	
+400	37 Min	faces=115	It=68
+600	40 Min	faces=125	It=74
+800	35 Min	faces=113	It=64
+
+
+This is the test for the MRFQuickhull
+
+60M	14:59:26 
+
+	

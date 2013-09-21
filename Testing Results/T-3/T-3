@@ -1,0 +1,26 @@
+This is the Test for hybrid MR 3D Convex HUll
+
+
+1.txt == 149,484,734	4.18 GB		Raleigh Peak, Colorado
+
+2.txt == 199,829,578	5.58 GB		Yosemite, CA: El Portal, Mariposa Grove, Yosemite Canyon & Tuolumne Meadows
+
+3.txt == 199,944,622	5.59 GB		Henry Mountains, UT: Hillslope-Channel Coupling in a Bedrock Landscape
+
+
+
+
+
+149,484,734	Raleigh Peak, Colorado		41,280,069	15,965,902	5,379,499	Final Step	Time==19 Min
+
+199,829,578	Yosemite, CA			57,213,673	14,934,899	7,036,213	Final Step	Time==27 Min
+
+349,314,312 	Raleigh Peak + Yosemite		98,493,742	30,906,019	12,415,623	6,295,516	Final Step	Time==46 Min
+
+60M						17,311,265	5,125,024	Final Step	Time== 8 Min
+
+
+549,258,934	Raleigh Peak + Yosemite		159,825,611	45,368,421	17,835,087	8,796,443	Final Step	Time=71	
+		   +Henry Mountains
+					
+ 	
